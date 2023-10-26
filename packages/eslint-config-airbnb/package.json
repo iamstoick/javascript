@@ -30,6 +30,6 @@
     "eslint": "0.21.2",
     "eslint-plugin-react": "2.3.0",
     "resolve": "1.1.6",
-    "strip-json-comments": "1.0.2"
+    "strip-json-comments": "1.0.4"
   }
 }
